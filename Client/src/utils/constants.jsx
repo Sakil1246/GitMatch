@@ -1,0 +1,2 @@
+export const BasicURL="http://localhost:3333"
+export const DefaultPhoto="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fdefault-image&psig=AOvVaw1Eq6k5sbfpY4RV2TFIhYqN&ust=1739961130648000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICorb2CzYsDFQAAAAAdAAAAABAE"
